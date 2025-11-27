@@ -6,15 +6,15 @@ export const perguntas = [
                 texto: "doce", //primeira alternativa
                 afirmacao: [
                     "você tem bom gosto", //comentário para a resposta
-                    "afirmação 2"        //segundo comentário
+                    "você tinha que ser preso(a)"        //segundo comentário
                 ],
                 proxima: 1,
             },
             {
                 texto: "salgado",
                 afirmacao: [
-                    "você é vaiado",
-                    "você não sabe escolher"
+                    "você é gente fina",
+                    "você é um monstro"
                 ],
                 proxima: 1,
             }
@@ -26,16 +26,16 @@ export const perguntas = [
             {
                 texto: "prime video",
                 afirmacao: [
-                    "você tem bom gosto",
-                    "afirmação 2"
+                    "você gosta de ver muito filme",
+                    "você tem dinheiro"
                 ],
                 proxima: 2,
             },
             {
-                texto: "netflix",
+                texto: "pobreflix",
                 afirmacao: [
-                    "você é vaiado",
-                    "você não sabe escolher"
+                    "você é zika",
+                    "você é pobre"
                 ],
                 proxima: 2,
             }
@@ -47,16 +47,16 @@ export const perguntas = [
             {
                 texto: "batman",
                 afirmacao: [
-                    "você tem bom gosto",
-                    "afirmação 2"
+                    "você é sigma",
+                    "você não tem preparo"
                 ],
                 proxima: 3,
             },
             {
                 texto: "superman",
                 afirmacao: [
-                    "você é vaiado",
-                    "você não sabe escolher"
+                    "você é inteligente",
+                    "você nerd"
                 ],
                 proxima: 3,
             }
@@ -68,16 +68,16 @@ export const perguntas = [
             {
                 texto: "2 reais",
                 afirmacao: [
-                    "você tem bom gosto",
-                    "afirmação 2"
+                    "você é prevenido",
+                    "você é necessitado"
                 ],
                 proxima: 4,
             },
             {
                 texto: "presente misterioso",
                 afirmacao: [
-                    "você é vaiado",
-                    "você não sabe escolher"
+                    "só quem se arrisca merece viver o extraordinário",
+                    "tu é burro kk"
                 ],
                 proxima: 4,
             }
@@ -89,15 +89,15 @@ export const perguntas = [
             {
                 texto: "baggy",
                 afirmacao: [
-                    "você tem bom gosto",
-                    "afirmação 2"
+                    "você tem estilo",
+                    "tu é maconheiro?"
                 ],
             },
             {
                 texto: "skinny",
                 afirmacao: [
-                    "você é vaiado",
-                    "você não sabe escolher"
+                    "você é zika",
+                    "você fica parecendo um mosquito"
                 ],
             }
         ]
